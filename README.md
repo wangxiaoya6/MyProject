@@ -1,0 +1,2 @@
+# MyProject
+Git's function
